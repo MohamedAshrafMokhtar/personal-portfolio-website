@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
     showModal(
       "Robotic Maze Solver",
       "I developed an autonomous robotic car capable of self-navigation through complex mazes using sensor feedback and control algorithms. The system is designed to detect and locate a missing object within the maze, approach it with precision, and retrieve it using a custom magnetic mechanism. Once secured, the car successfully returns the object to the maze exit without human intervention, demonstrating problem-solving, robotics integration, and intelligent motion planning.",
-      ["images/roboticPhoto.JPG"] // multiple images
+      ["type images/roboticPhoto.JPG"] // multiple images
     );
   });
 
@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "Student Management System",
       "A full-stack task manager app with Spring Boot & MySQL.",
       [],
-      "Student Mang/Student System with menu.mov"
+      "type images/Student System with menu.mov"
     );
   });
 
@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
     showModal(
       "Windows-Based Grading System Application",
       "I developed a **Windows desktop application** using C++ and the Windows API to create a user-friendly grading system. This project highlights my skills in GUI development, algorithms, and object-oriented design. ",
-      ["images/Screenshot 2025-08-24 at 11.50.34 AM.png"]
+      ["type images/gradingsys.png"]
     );
   });
 
