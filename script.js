@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "Student Management System",
       "A full-stack task manager app with Spring Boot & MySQL.",
       [],
-      "type images/Student System with menu.mov"
+      "Student System with menu.mp4"
     );
   });
 
